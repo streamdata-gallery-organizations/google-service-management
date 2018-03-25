@@ -11,8 +11,8 @@ tags:
 - Management
 - Google APIs
 - Deployment
-created: "2018-03-22"
-modified: "2018-03-22"
+created: "2018-03-25"
+modified: "2018-03-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-service-management/master/_listings/google-service-management/apis.yaml
 specificationVersion: "0.14"
 apis:
