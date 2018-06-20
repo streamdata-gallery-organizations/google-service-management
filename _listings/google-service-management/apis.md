@@ -6,10 +6,10 @@ description: Google Service Management is an infrastructure service of Google Cl
   services and their APIs, and services created using Google Cloud Endpoints.
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Google Service Management
-created: "2018-05-21"
-modified: "2018-05-21"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/google-service-management/master/_listings/google-service-management/apis.md
 specificationVersion: "0.14"
 apis:
