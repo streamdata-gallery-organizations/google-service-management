@@ -5,7 +5,7 @@ description: This is a repository of google service management APIs, self-contai
   surrounding operations.
 image: http://template.streamdata.gallery/assets/google-service-management.png
 created: "2018-02-24"
-modified: "2018-06-20"
+modified: "2018-06-25"
 url: http://google-service-management.streamdata.gallery/apis.json
 specificationVersion: "0.14"
 apis: []
